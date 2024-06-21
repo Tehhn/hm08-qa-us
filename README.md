@@ -33,5 +33,5 @@ Test suite consists of following test cases:
 - Node.js
 - npm
 - Webdriver.io
- 
+- Javascript
 
